@@ -7,6 +7,9 @@ body {
     margin: auto;
 
 }
+nav {
+    text-align: center;
+}
 
 a {
     text-decoration: none;
@@ -22,9 +25,6 @@ h1 {
     text-align: center;
 }
 
-nav {
-    text-align: center;
-}
 
 .image {
     margin: auto;
@@ -34,4 +34,15 @@ img {
     margin-left: 40px;
     border: 1px solid #C27A10;
     
+}
+
+form {
+    margin-left: 100px;
+    padding: 10px;
+    gap: 5px;
+}
+
+.submit-btn {
+    margin-left: 100px;
+    text-align: center;
 }
